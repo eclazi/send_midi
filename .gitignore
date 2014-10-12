@@ -1,0 +1,4 @@
+*.xcworkspacedata
+*.xcuserstate
+*.xcscheme
+send_midi.xcodeproj/xcuserdata
