@@ -39,7 +39,8 @@ int main(int argc, const char * argv[])
     try
     {
         midiOut = make_shared<RtMidiOut>();
-    } catch (RtMidiError& error) {
+    } catch (RtMidiError& error)
+    {
         error.printMessage();
         return -1;
     }
