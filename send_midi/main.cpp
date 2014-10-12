@@ -56,7 +56,6 @@ int main(int argc, const char * argv[])
                 error.printMessage();
                 return -1;
             }
-            
         }
         return 0;
     }
